@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-backgroundaudio",
+  "version": "1.0.0",
+  "description": "by [Eddy Verbruggen](http://twitter.com/eddyverbruggen)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-backgroundaudio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddyVerbruggen/cordova-plugin-backgroundaudio/issues"
+  },
+  "homepage": "https://github.com/EddyVerbruggen/cordova-plugin-backgroundaudio#readme"
+}
